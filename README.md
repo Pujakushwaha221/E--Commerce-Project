@@ -38,9 +38,9 @@ OrderDetails: Granular line-item data (Quantities and per-unit pricing).
 **Peak Period Resource Planning:** September and December 2023 were identified as peak sales windows.\
     Strategy: These windows require a 30% increase in seasonal staffing and aggressive inventory buffering at least 4 weeks in advance.\
 **AOV Shifts:** December 2023 saw the most dramatic fluctuation in Average Order Value (AOV), likely due to holiday bundling.
-    Strategy: Analyze the specific bundles sold in Dec '23 to replicate that "basket-building" success during other holiday cycles.\
+    Strategy: Analyze the specific bundles sold in Dec '23 to replicate that "basket-building" success during other holiday cycles.
 
 **IV. Marketing Effectiveness**\
-**Acquisition Decay: **There is a clear downward trend in new customer acquisition from August 2023 through February 2024.\
+**Acquisition Delay:** There is a clear downward trend in new customer acquisition from August 2023 through February 2024.\
     Critical Insight: Current marketing campaigns are seeing diminishing returns.\
-**Action:** Conduct a "Channel Audit" to identify which platforms (Social, Search, Email) are underperforming and pivot the budget toward top-performing cities (Delhi/Chennai/Jaipur).\
+**Action:** Conduct a "Channel Audit" to identify which platforms (Social, Search, Email) are underperforming and pivot the budget toward top-performing cities (Delhi/Chennai/Jaipur).
